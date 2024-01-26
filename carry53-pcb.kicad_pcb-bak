@@ -102,7 +102,7 @@
   )
 
   (module Kailh_Choc:KailhChoc-1U (layer F.Cu) (tedit 65AD147D) (tstamp 65AD24CF)
-    (at 109.728 80.772)
+    (at 109.728 80.264)
     (fp_text reference REF** (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -130,7 +130,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 65AD232F)
-    (at 90.424 80.772)
+    (at 90.424 80.264)
     (fp_text reference REF** (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
